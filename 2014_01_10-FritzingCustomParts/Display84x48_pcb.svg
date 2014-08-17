@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.2"
+   x="0in"
+   y="0in"
+   width="154.13385"
+   height="152.3622"
+   viewBox="0 0 123.30697 121.88944"
+   id="svg3384"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="Display84x48_pcb.svg">
+  <g
+     id="copper0">
+    <g
+       id="g3469"
+       transform="matrix(0,0.99999999,-0.99999999,0,65.605,88.883304)">
+      <circle
+         style="fill:none;stroke:#ffbf00;stroke-width:1.15199995"
+         sodipodi:ry="1.584"
+         sodipodi:rx="1.584"
+         sodipodi:cy="4.3200002"
+         sodipodi:cx="25.92"
+         d="m 27.504,4.3200002 c 0,0.874819 -0.709181,1.584 -1.584,1.584 -0.874819,0 -1.584,-0.709181 -1.584,-1.584 0,-0.8748191 0.709181,-1.584 1.584,-1.584 0.874819,0 1.584,0.7091809 1.584,1.584 z"
+         id="circle3471"
+         r="1.584"
+         cy="4.3200002"
+         cx="25.92" />
+    </g>
+    <g
+       id="g3465"
+       transform="matrix(0,0.99999999,-0.99999999,0,65.605,88.883304)">
+      <circle
+         style="fill:none;stroke:#ffbf00;stroke-width:1.15199995"
+         sodipodi:ry="1.584"
+         sodipodi:rx="1.584"
+         sodipodi:cy="11.52"
+         sodipodi:cx="25.92"
+         d="m 27.504,11.52 c 0,0.874819 -0.709181,1.584 -1.584,1.584 -0.874819,0 -1.584,-0.709181 -1.584,-1.584 0,-0.874819 0.709181,-1.5839995 1.584,-1.5839995 0.874819,0 1.584,0.7091805 1.584,1.5839995 z"
+         id="circle3467"
+         r="1.584"
+         cy="11.52"
+         cx="25.92" />
+    </g>
+    <g
+       id="g3457"
+       transform="matrix(0,0.99999999,-0.99999999,0,65.605,88.883304)">
+      <circle
+         style="fill:none;stroke:#ffbf00;stroke-width:1.15199995"
+         sodipodi:ry="1.584"
+         sodipodi:rx="1.584"
+         sodipodi:cy="25.92"
+         sodipodi:cx="25.92"
+         d="m 27.504,25.92 c 0,0.874819 -0.709181,1.584 -1.584,1.584 -0.874819,0 -1.584,-0.709181 -1.584,-1.584 0,-0.874819 0.709181,-1.584 1.584,-1.584 0.874819,0 1.584,0.709181 1.584,1.584 z"
+         id="circle3459"
+         r="1.584"
+         cy="25.92"
+         cx="25.92" />
+    </g>
+    <g
+       id="g3485"
+       transform="matrix(0,0.99999999,-0.99999999,0,94.405004,110.4833)">
+      <circle
+         style="fill:none;stroke:#ffbf00;stroke-width:1.15199995"
+         sodipodi:ry="1.584"
+         sodipodi:rx="1.584"
+         sodipodi:cy="25.92"
+         sodipodi:cx="4.3200002"
+         d="m 5.9040002,25.92 c 0,0.874819 -0.709181,1.584 -1.584,1.584 -0.8748191,0 -1.584,-0.709181 -1.584,-1.584 0,-0.874819 0.7091809,-1.584 1.584,-1.584 0.874819,0 1.584,0.709181 1.584,1.584 z"
+         r="1.584"
+         id="circle3487"
+         cy="25.92"
+         cx="4.3200002" />
+    </g>
+    <g
+       id="g3481"
+       transform="matrix(0,0.99999999,-0.99999999,0,94.405004,110.4833)">
+      <circle
+         style="fill:none;stroke:#ffbf00;stroke-width:1.15199995"
+         sodipodi:ry="1.584"
+         sodipodi:rx="1.584"
+         sodipodi:cy="18.719999"
+         sodipodi:cx="4.3200002"
+         d="m 5.9040002,18.719999 c 0,0.874819 -0.709181,1.584 -1.584,1.584 -0.8748191,0 -1.584,-0.709181 -1.584,-1.584 0,-0.874819 0.7091809,-1.584 1.584,-1.584 0.874819,0 1.584,0.709181 1.584,1.584 z"
+         r="1.584"
+         id="circle3483"
+         cy="18.719999"
+         cx="4.3200002" />
+    </g>
+    <g
+       id="g3477"
+       transform="matrix(0,0.99999999,-0.99999999,0,94.405004,110.4833)">
+      <circle
+         style="fill:none;stroke:#ffbf00;stroke-width:1.15199995"
+         sodipodi:ry="1.584"
+         sodipodi:rx="1.584"
+         sodipodi:cy="11.52"
+         sodipodi:cx="4.3200002"
+         d="m 5.9040002,11.52 c 0,0.874819 -0.709181,1.584 -1.584,1.584 -0.8748191,0 -1.584,-0.709181 -1.584,-1.584 0,-0.874819 0.7091809,-1.5839995 1.584,-1.5839995 0.874819,0 1.584,0.7091805 1.584,1.5839995 z"
+         r="1.584"
+         id="circle3479"
+         cy="11.52"
+         cx="4.3200002" />
+    </g>
+    <g
+       id="g3473"
+       transform="matrix(0,0.99999999,-0.99999999,0,94.405004,110.4833)">
+      <circle
+         style="fill:none;stroke:#ffbf00;stroke-width:1.15199995"
+         sodipodi:ry="1.584"
+         sodipodi:rx="1.584"
+         sodipodi:cy="4.3200002"
+         sodipodi:cx="4.3200002"
+         d="m 5.9040002,4.3200002 c 0,0.874819 -0.709181,1.584 -1.584,1.584 -0.8748191,0 -1.584,-0.709181 -1.584,-1.584 0,-0.8748191 0.7091809,-1.584 1.584,-1.584 0.874819,0 1.584,0.7091809 1.584,1.584 z"
+         r="1.584"
+         id="circle3475"
+         cy="4.3200002"
+         cx="4.3200002" />
+    </g>
+    <g
+       id="g3461"
+       transform="matrix(0,0.99999999,-0.99999999,0,65.605,88.883304)">
+      <circle
+         style="fill:none;stroke:#ffbf00;stroke-width:1.15199995"
+         sodipodi:ry="1.584"
+         sodipodi:rx="1.584"
+         sodipodi:cy="18.719999"
+         sodipodi:cx="25.92"
+         d="m 27.504,18.719999 c 0,0.874819 -0.709181,1.584 -1.584,1.584 -0.874819,0 -1.584,-0.709181 -1.584,-1.584 0,-0.874819 0.709181,-1.584 1.584,-1.584 0.874819,0 1.584,0.709181 1.584,1.584 z"
+         id="circle3463"
+         r="1.584"
+         cy="18.719999"
+         cx="25.92" />
+    </g>
+    <g
+       transform="matrix(0,0.99999999,-0.99999999,0,94.405004,110.4833)"
+       id="g3411">
+      <circle
+         cx="4.3200002"
+         cy="25.92"
+         id="connector15pin"
+         r="1.584"
+         d="m 5.9040002,25.92 c 0,0.874819 -0.709181,1.584 -1.584,1.584 -0.8748191,0 -1.584,-0.709181 -1.584,-1.584 0,-0.874819 0.7091809,-1.584 1.584,-1.584 0.874819,0 1.584,0.709181 1.584,1.584 z"
+         sodipodi:cx="4.3200002"
+         sodipodi:cy="25.92"
+         sodipodi:rx="1.584"
+         sodipodi:ry="1.584"
+         style="fill:none;stroke:#ffbf00;stroke-width:1.15199995" />
+    </g>
+    <g
+       transform="matrix(0,0.99999999,-0.99999999,0,94.405004,110.4833)"
+       id="g3408">
+      <circle
+         cx="4.3200002"
+         cy="18.719999"
+         id="connector14pin"
+         r="1.584"
+         d="m 5.9040002,18.719999 c 0,0.874819 -0.709181,1.584 -1.584,1.584 -0.8748191,0 -1.584,-0.709181 -1.584,-1.584 0,-0.874819 0.7091809,-1.584 1.584,-1.584 0.874819,0 1.584,0.709181 1.584,1.584 z"
+         sodipodi:cx="4.3200002"
+         sodipodi:cy="18.719999"
+         sodipodi:rx="1.584"
+         sodipodi:ry="1.584"
+         style="fill:none;stroke:#ffbf00;stroke-width:1.15199995" />
+    </g>
+    <g
+       transform="matrix(0,0.99999999,-0.99999999,0,94.405004,110.4833)"
+       id="g3405">
+      <circle
+         cx="4.3200002"
+         cy="11.52"
+         id="connector13pin"
+         r="1.584"
+         d="m 5.9040002,11.52 c 0,0.874819 -0.709181,1.584 -1.584,1.584 -0.8748191,0 -1.584,-0.709181 -1.584,-1.584 0,-0.874819 0.7091809,-1.5839995 1.584,-1.5839995 0.874819,0 1.584,0.7091805 1.584,1.5839995 z"
+         sodipodi:cx="4.3200002"
+         sodipodi:cy="11.52"
+         sodipodi:rx="1.584"
+         sodipodi:ry="1.584"
+         style="fill:none;stroke:#ffbf00;stroke-width:1.15199995" />
+    </g>
+    <g
+       transform="matrix(0,0.99999999,-0.99999999,0,94.405004,110.4833)"
+       id="g3402">
+      <circle
+         cx="4.3200002"
+         cy="4.3200002"
+         id="connector12pin"
+         r="1.584"
+         d="m 5.9040002,4.3200002 c 0,0.874819 -0.709181,1.584 -1.584,1.584 -0.8748191,0 -1.584,-0.709181 -1.584,-1.584 0,-0.8748191 0.7091809,-1.584 1.584,-1.584 0.874819,0 1.584,0.7091809 1.584,1.584 z"
+         sodipodi:cx="4.3200002"
+         sodipodi:cy="4.3200002"
+         sodipodi:rx="1.584"
+         sodipodi:ry="1.584"
+         style="fill:none;stroke:#ffbf00;stroke-width:1.15199995" />
+    </g>
+    <g
+       transform="matrix(0,0.99999999,-0.99999999,0,65.605,88.883304)"
+       id="g3399">
+      <circle
+         cx="25.92"
+         cy="4.3200002"
+         r="1.584"
+         id="connector16pin"
+         d="m 27.504,4.3200002 c 0,0.874819 -0.709181,1.584 -1.584,1.584 -0.874819,0 -1.584,-0.709181 -1.584,-1.584 0,-0.8748191 0.709181,-1.584 1.584,-1.584 0.874819,0 1.584,0.7091809 1.584,1.584 z"
+         sodipodi:cx="25.92"
+         sodipodi:cy="4.3200002"
+         sodipodi:rx="1.584"
+         sodipodi:ry="1.584"
+         style="fill:none;stroke:#ffbf00;stroke-width:1.15199995" />
+    </g>
+    <g
+       transform="matrix(0,0.99999999,-0.99999999,0,65.605,88.883304)"
+       id="g3396">
+      <circle
+         cx="25.92"
+         cy="11.52"
+         r="1.584"
+         id="connector17pin"
+         d="m 27.504,11.52 c 0,0.874819 -0.709181,1.584 -1.584,1.584 -0.874819,0 -1.584,-0.709181 -1.584,-1.584 0,-0.874819 0.709181,-1.5839995 1.584,-1.5839995 0.874819,0 1.584,0.7091805 1.584,1.5839995 z"
+         sodipodi:cx="25.92"
+         sodipodi:cy="11.52"
+         sodipodi:rx="1.584"
+         sodipodi:ry="1.584"
+         style="fill:none;stroke:#ffbf00;stroke-width:1.15199995" />
+    </g>
+    <g
+       transform="matrix(0,0.99999999,-0.99999999,0,65.605,88.883304)"
+       id="g3393">
+      <circle
+         cx="25.92"
+         cy="18.719999"
+         r="1.584"
+         id="connector18pin"
+         d="m 27.504,18.719999 c 0,0.874819 -0.709181,1.584 -1.584,1.584 -0.874819,0 -1.584,-0.709181 -1.584,-1.584 0,-0.874819 0.709181,-1.584 1.584,-1.584 0.874819,0 1.584,0.709181 1.584,1.584 z"
+         sodipodi:cx="25.92"
+         sodipodi:cy="18.719999"
+         sodipodi:rx="1.584"
+         sodipodi:ry="1.584"
+         style="fill:none;stroke:#ffbf00;stroke-width:1.15199995" />
+    </g>
+    <g
+       transform="matrix(0,0.99999999,-0.99999999,0,65.605,88.883304)"
+       id="g3390">
+      <circle
+         cx="25.92"
+         cy="25.92"
+         r="1.584"
+         id="connector19pin"
+         d="m 27.504,25.92 c 0,0.874819 -0.709181,1.584 -1.584,1.584 -0.874819,0 -1.584,-0.709181 -1.584,-1.584 0,-0.874819 0.709181,-1.584 1.584,-1.584 0.874819,0 1.584,0.709181 1.584,1.584 z"
+         sodipodi:cx="25.92"
+         sodipodi:cy="25.92"
+         sodipodi:rx="1.584"
+         sodipodi:ry="1.584"
+         style="fill:none;stroke:#ffbf00;stroke-width:1.15199995" />
+    </g>
+  </g>
+  <metadata
+     id="metadata3549">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3547" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     id="namedview3545"
+     showgrid="false"
+     units="mm"
+     inkscape:zoom="2.6912217"
+     inkscape:cx="145.27028"
+     inkscape:cy="113.17344"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3384" />
+  <g
+     partID="20512"
+     id="g3541"
+     transform="translate(0,-76.535699)">
+    <g
+       id="silkscreen">
+      <rect
+         width="261.97299"
+         x="0.82433498"
+         y="0.82433599"
+         height="196.77699"
+         style="color:#000000;fill:none;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:19.78405724, 1.64867144;stroke-dashoffset:16.48671436;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect2882" />
+    </g>
+  </g>
+</svg>
